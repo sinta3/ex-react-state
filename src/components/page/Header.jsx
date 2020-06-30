@@ -7,11 +7,11 @@ export default class Header extends Component {
             <div class="container1">
                 <h3>Ngopi Doeloe</h3>
                 <nav>
-                    <a href="#">Menu</a>
+                    <a href="/">Menu</a>
 
-                    <a href="#">Menu</a>
+                    <a href="/">Menu</a>
 
-                    <a href="#">Menu</a>
+                    <a href="/">Menu</a>
                 </nav>
 
                 <hr />
